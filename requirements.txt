@@ -1,0 +1,6 @@
+pyspark
+matplotlib
+seaborn
+pandas
+openjdk-11-jdk -y
+ta
